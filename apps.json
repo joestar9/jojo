@@ -88,7 +88,7 @@
   {
     "name": "V2rayN",
     "urlScheme": "v2rayng://install-config",
-    "image": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
+    "image": "https://raw.githubusercontent.com/joestar9/jojo/refs/heads/main/V2ray.jpg",
     "os": [
       "Windows"
     ],
