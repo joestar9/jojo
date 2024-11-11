@@ -30,7 +30,7 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
       "Android": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm64.apk",
-      "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.Msix",
+      "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
       "Linux": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage"
     },
     "ShowInMenu": true
