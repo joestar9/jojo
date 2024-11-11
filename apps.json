@@ -45,6 +45,30 @@
     "ShowInMenu": true
   },
   {
+    "name": "Nekoray",
+    "image": "https://avatars.githubusercontent.com/u/95122236?v=4",
+    "os": [
+      "Windows",
+      "Linux"
+    ],
+    "downloadLinks": {
+      "Windows": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.5/nekoray-4.2.5-2024-10-25-windows64.zip",
+      "Linux": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.5/nekoray-4.2.5-2024-10-25-linux64.zip"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "Nekoray Windows 7",
+    "image": "https://avatars.githubusercontent.com/u/95122236?v=4",
+    "os": [
+      "Windows"
+    ],
+    "downloadLinks": {
+      "Windows": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.5/nekoray-4.2.5-2024-10-25-windows7.zip"
+    },
+    "ShowInMenu": false
+  },
+  {
     "name": "V2rayN",
     "urlScheme": "v2rayng://install-config",
     "image": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
