@@ -7,13 +7,11 @@
     "os": [
       "iOS",
       "Android",
-      "Windows",
       "Linux"
     ],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
       "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
-      "Windows": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-amd64.zip",
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
     },
     "ShowInMenu": true
