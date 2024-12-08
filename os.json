@@ -68,7 +68,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاههای اندرویدی است.",
-          "configLink": "v2rayng://install-config?url={url}",
+          "configLink": "v2rayng://install-config?url={url}#حلزون وپن🐌",
           "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.22/v2rayNG_1.9.22_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
         }
