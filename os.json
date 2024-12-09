@@ -14,16 +14,6 @@
           "configLink": "sing-box://import-remote-profile?url={url}#حلزون وپن🐌",
           "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
           "videoLink": "https://example.com/sing-box-video"
-        },
-        {
-          "name": "⭐Hiddify",
-          "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-          "description": "A client that provides a platform for routing traffic securely.",
-          "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم میکند.",
-          "configLink": "hiddify://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
-          "videoLink": "https://example.com/sing-box-video"
         }
       ]
     },
@@ -40,16 +30,6 @@
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم میکند.",
           "configLink": "sing-box://import-remote-profile?url={url}#حلزون وپن🐌",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.3/SFA-1.10.3-universal.apk",
-          "videoLink": "https://example.com/sing-box-video"
-        },
-        {
-          "name": "⭐Hiddify",
-          "price": "0",
-          "logo": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-          "description": "A client that provides a platform for routing traffic securely.",
-          "faDescription": "Hiddify یک کلاینت برای مسیریابی امن ترافیک فراهم میکند.",
-          "configLink": "hiddify://import/{url}",
-          "downloadLink": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-arm64.apk",
           "videoLink": "https://example.com/sing-box-video"
         }
       ]
