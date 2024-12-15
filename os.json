@@ -26,7 +26,7 @@
           "videoLink": "https://example.com/sing-box-video"
         },
         {
-          "name": "Streisand",
+          "name": "🚫 Streisand",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
@@ -63,7 +63,7 @@
           "videoLink": "https://example.com/sing-box-video"
         },
         {
-          "name": "V2rayNG",
+          "name": "🚫V2rayNG",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
           "description": "A V2Ray client for Android devices.",
@@ -90,7 +90,7 @@
           "videoLink": "https://example.com/sing-box-video"
         },
         {
-          "name": "Nekoray",
+          "name": "🚫Nekoray",
           "price": "0",
           "logo": "https://play-lh.googleusercontent.com/x9Hrt8LM1FbFS0V89awp5vj6Fgsh_g8cs606fw3956dg6eLit0Nq1ZvhVKVE1nSugm9T=w240-h480-rw",
           "description": "A cross-platform GUI client for V2Ray.",
