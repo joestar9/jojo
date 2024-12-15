@@ -10,7 +10,7 @@
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
-          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم میکند.",
+          "faDescription": "برای راه‌اندازی، ابتدا برنامه را با استفاده از دکمه "دانلود" زیر دریافت و نصب کنید. سپس پس از نصب، با کلیک روی دکمه "افزودن به برنامه"، اشتراک خود را به برنامه اضافه کنید.",
           "configLink": "sing-box://import-remote-profile?url={url}#حلزون وپن🐌",
           "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168",
           "videoLink": "https://example.com/sing-box-video"
