@@ -49,7 +49,7 @@
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "برای راه‌اندازی، ابتدا برنامه را با استفاده از دکمه «دانلود» زیر دریافت و نصب کنید. سپس پس از نصب، با کلیک روی دکمه «افزودن به برنامه»، اشتراک خود را به برنامه اضافه کنید.",
           "configLink": "sing-box://import-remote-profile?url={url}#حلزون وپن🐌",
-          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.3/SFA-1.10.3-universal.apk",
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.5/SFA-1.10.5-universal.apk",
           "videoLink": "https://example.com/sing-box-video"
         },
         {
@@ -69,7 +69,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "برای راه‌اندازی، ابتدا برنامه را با استفاده از دکمه «دانلود» زیر دریافت و نصب کنید. سپس پس از نصب، با کلیک روی دکمه «افزودن به برنامه»، اشتراک خود را به برنامه اضافه کنید.",
           "configLink": "v2rayng://install-config?url={url}#حلزون وپن🐌",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.22/v2rayNG_1.9.22_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.24/v2rayNG_1.9.24_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
         }
       ]
