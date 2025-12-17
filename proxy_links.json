@@ -1,0 +1,17 @@
+{
+  "http": [
+    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
+  ],
+  "socks5": [
+    "https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/socks5.txt",
+    "https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/refs/heads/main/socks5/raw/all.txt",
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks5/data.txt",
+    "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/socks5.txt",
+    "https://raw.githubusercontent.com/s0mecode/socks5-proxies/refs/heads/main/socks5_5000ms.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/socks5.txt",
+    "https://raw.githubusercontent.com/trio666/proxy-checker/refs/heads/main/socks5.txt"
+  ],
+  "socks4": [
+    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt"
+  ]
+}
