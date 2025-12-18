@@ -1,13 +1,11 @@
 {
-  "https": [
+  "http": [
     "https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/https.txt",
     "https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/refs/heads/main/free.txt",
     "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/https.txt",
     "https://raw.githubusercontent.com/iplocate/free-proxy-list/refs/heads/main/protocols/https.txt",
     "https://raw.githubusercontent.com/stormsia/proxy-list/refs/heads/main/working_proxies.txtkomutan234",
-    "https://raw.githubusercontent.com/ebrasha/abdal-proxy-hub/refs/heads/main/https-proxy-list-by-EbraSha.txt"
-  ],
-  "http": [
+    "https://raw.githubusercontent.com/ebrasha/abdal-proxy-hub/refs/heads/main/https-proxy-list-by-EbraSha.txt",
     "https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/http.txt",
     "https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt",
     "https://raw.githubusercontent.com/databay-labs/free-proxy-list/refs/heads/master/http.txt",
@@ -41,6 +39,5 @@
     "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/socks4.txt",
     "https://raw.githubusercontent.com/komutan234/Proxy-List-Free/main/proxies/socks4.txt",
     "https://raw.githubusercontent.com/ebrasha/abdal-proxy-hub/refs/heads/main/socks4-proxy-list-by-EbraSha.txt"
-  ],
-  "unknown": []
+  ]
 }
