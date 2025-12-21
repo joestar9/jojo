@@ -1,0 +1,174 @@
+{
+    "currencies": [
+        {
+            "code": "USD",
+            "name": "US Dollar",
+            "sell": "131100",
+            "buy": "131000"
+        },
+        {
+            "code": "EUR",
+            "name": "Euro",
+            "sell": "153550",
+            "buy": "153350"
+        },
+        {
+            "code": "GBP",
+            "name": "British Pound",
+            "sell": "174300",
+            "buy": "174100"
+        },
+        {
+            "code": "CHF",
+            "name": "Swiss Franc",
+            "sell": "163750",
+            "buy": "163550"
+        },
+        {
+            "code": "CAD",
+            "name": "Canadian Dollar",
+            "sell": "95150",
+            "buy": "95050"
+        },
+        {
+            "code": "AUD",
+            "name": "Australian Dollar",
+            "sell": "86900",
+            "buy": "86800"
+        },
+        {
+            "code": "SEK",
+            "name": "Swedish Krona",
+            "sell": "14150",
+            "buy": "14050"
+        },
+        {
+            "code": "NOK",
+            "name": "Norwegian Krone",
+            "sell": "12950",
+            "buy": "12950"
+        },
+        {
+            "code": "RUB",
+            "name": "Russian Ruble",
+            "sell": "1630",
+            "buy": "1625"
+        },
+        {
+            "code": "THB",
+            "name": "Thai Baht",
+            "sell": "4170",
+            "buy": "4165"
+        },
+        {
+            "code": "SGD",
+            "name": "Singapore Dollar",
+            "sell": "101400",
+            "buy": "101300"
+        },
+        {
+            "code": "HKD",
+            "name": "Hong Kong Dollar",
+            "sell": "16800",
+            "buy": "16700"
+        },
+        {
+            "code": "AZN",
+            "name": "Azerbaijani Manat",
+            "sell": "76950",
+            "buy": "76850"
+        },
+        {
+            "code": "AMD",
+            "name": "10Armenian Dram",
+            "sell": "3435",
+            "buy": "3430"
+        },
+        {
+            "code": "DKK",
+            "name": "Danish Krone",
+            "sell": "20550",
+            "buy": "20450"
+        },
+        {
+            "code": "AED",
+            "name": "UAE Dirham",
+            "sell": "36100",
+            "buy": "36050"
+        },
+        {
+            "code": "JPY",
+            "name": "10Japanese Yen",
+            "sell": "8325",
+            "buy": "8315"
+        },
+        {
+            "code": "TRY",
+            "name": "Turkish Lira",
+            "sell": "3065",
+            "buy": "3045"
+        },
+        {
+            "code": "CNY",
+            "name": "Chinese Yuan",
+            "sell": "18600",
+            "buy": "18600"
+        },
+        {
+            "code": "SAR",
+            "name": "KSA Riyal",
+            "sell": "34950",
+            "buy": "34850"
+        },
+        {
+            "code": "INR",
+            "name": "Indian Rupee",
+            "sell": "1465",
+            "buy": "1460"
+        },
+        {
+            "code": "MYR",
+            "name": "Ringgit",
+            "sell": "32150",
+            "buy": "32050"
+        },
+        {
+            "code": "AFN",
+            "name": "Afghan Afghani",
+            "sell": "1980",
+            "buy": "1975"
+        },
+        {
+            "code": "KWD",
+            "name": "Kuwaiti Dinar",
+            "sell": "426700",
+            "buy": "426300"
+        },
+        {
+            "code": "IQD",
+            "name": "100Iraqi Dinar",
+            "sell": "10000",
+            "buy": "10000"
+        },
+        {
+            "code": "BHD",
+            "name": "Bahraini Dinar",
+            "sell": "347750",
+            "buy": "347250"
+        },
+        {
+            "code": "OMR",
+            "name": "Omani Rial",
+            "sell": "340150",
+            "buy": "339850"
+        },
+        {
+            "code": "QAR",
+            "name": "Qatari Riyal",
+            "sell": "35950",
+            "buy": "35850"
+        }
+    ],
+    "gold_coins": [],
+    "timestamp": "2025-12-22 03:07:40"
+}
